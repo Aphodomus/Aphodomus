@@ -1,4 +1,13 @@
-### Hi there 👋
+# 👋 Olá
+
+Meu nome é Daniel, sou estudante de Ciência da Computação e profissional de Ciência de Dados. Tenho uma paixão ardente por enfrentar novos desafios e adquiri experiência prática na área de dados através do meu estágio de aproximadamente 2 anos. Durante esse período, aprimorei minhas habilidades interpessoais e profissionais, tornando-me um profissional mais competente e adaptável ao mercado de trabalho.
+
+# 🚀 Foco Principal
+
+Minha principal área de atuação é em dados, especificamente em Ciência de Dados, propondo, modelando e criando modelos de machine learning com objetivo de gerar insights valiosos que impulsionem a tomada de decisões estratégicas para as empresas. Tenho amplo conhecimento em Python, SQL, PySpark e ferramentas de visualização de dados e bibliotecas voltadas a processamento de dados. Adoro trabalhar nessa área pois é onde eu sinto que eu consigo combinar a minha criatividade junto com a minha curiosidade para resolver problemas complexos. Mas também não abro mão de seguir as tendências do mercado e buscar novos métodos por meio de artigos.
+
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!--
 **Aphodomus/Aphodomus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
