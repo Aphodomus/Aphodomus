@@ -50,12 +50,8 @@ Minha principal área de atuação é em dados, especificamente em Ciência de D
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Aphodomus&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aphodomus&theme=neon&hide_border=false"  width="400px" />
-
-
-
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Aphodomus&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/laura-grassi](https://www.linkedin.com/in/daniel-vitor-santos/))
 
 <!--
 **Aphodomus/Aphodomus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
